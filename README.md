@@ -1,0 +1,2 @@
+# Quantumult-X
+Filter rules
